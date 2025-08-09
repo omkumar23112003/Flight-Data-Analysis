@@ -1,6 +1,7 @@
 <img width="468" height="467" alt="image" src="https://github.com/user-attachments/assets/9046b9fa-dcf2-4798-ac1c-fcf9d5ae7cd4" />
+
+
 ✈️ Flight Data Analysis with Python, MySQL & Power BI
-![Banner Image with actual banner if available -->
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue://img.shields.io/badge/Database BI](https://img.shields.io/badge/Visualization-Power: MIT](https://img.shields.io/badge/License-MIT-green.svg Jupyter](https://img.shields.io/badge/Made%20with-Jupyter 📢 Overview
 
@@ -18,44 +19,11 @@ Interactive Visuals: Build dashboards giving insights for stakeholders.
 Scalability: Easy to extend for new data sources or analytics needs.
 
 📂 Project Structure
-text
-FLIGHT DATA ANALYSIS/
-│
-├── sql/
-│   ├── Airport_Normal_Questions.sql
-│   ├── Airport_Challenging_Questions.sql
-│
-├── notebooks/
-│   ├── AirportProject.ipynb
-│   ├── DBConnect.ipynb
-│   ├── DBInsert.ipynb
-│   ├── EmployeeDash.ipynb
-│
-├── reports/
-│   ├── airport_rec.pdf
-│   ├── Airport SQL project.pptx
-│
-├── powerbi/
-│   ├── airportreport.pbix
-│
-├── screenshots/
-│   ├── flight.png
-│   ├── passengers.png
-│   ├── distance.png
-│   ├── destination-5.png
-│   ├── 6557822.png
-│
-├── docs/
-│   ├── Notes for pymysql and sqlalchemy.docx
-│
-└── README.md
+<img width="616" height="597" alt="image" src="https://github.com/user-attachments/assets/e3c7a595-f14f-4c29-9017-b08f772453aa" />
+
 🧰 Tech Stack
-Category	Tools / Technologies
-Programming	Python 3.x (Jupyter Notebooks)
-Database	MySQL
-Visualization	Microsoft Power BI
-Libraries	pandas, mysql-connector-python / sqlalchemy, matplotlib, seaborn
-Documentation	PDF, PPTX, DOCX
+<img width="910" height="309" alt="image" src="https://github.com/user-attachments/assets/18525d9b-2763-4e8e-9d69-6a4ae64f7a1d" />
+
 🔄 Workflow
 1. Data Ingestion
   ↳ Import raw CSV/excel datasets
@@ -69,35 +37,12 @@ Documentation	PDF, PPTX, DOCX
 4. Reporting & Dashboarding
   ↳ Load aggregated data into Power BI for interactive visuals
 
-⚡ Setup & Installation
-Clone the repository
 
-bash
-git clone https://github.com/yourusername/flight-data-analysis.git
-cd flight-data-analysis
-Install Python dependencies
-
-bash
-pip install -r requirements.txt
-Configure MySQL
-
-Create a flight_data database in MySQL
-
-Run SQL scripts from the sql/ folder
-
-Run Notebooks
-
-Open any .ipynb file in Jupyter or VS Code
-
-View Power BI Dashboard
-
-Launch airportreport.pbix in Power BI Desktop
-
-Refresh database connections
 
 🖼️ Screenshots
 🔹 Dashboard Overview
-![Overview](<img width="995" height="651" alt="image" src="https://github.com/user-attachments/assets/d3dfd10b-d749-4c45-a21a-51c1f83ea39c" />
+![Overview](<img width="997" height="650" alt="image" src="https://github.com/user-attachments/assets/959d7561-835a-4e77-a9ea-fc8b11ca6dd4" />
+
 
 📄 Project Report (PDF)
 
