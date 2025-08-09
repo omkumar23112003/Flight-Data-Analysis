@@ -104,7 +104,7 @@ Include this project in commercial products with proper attribution.
 
 Access the project's full source code for educational and professional purposes.
 
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/6414fbf8-eb34-4fea-a9e2-54c928042f76" />omk99919@gmail.com
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6414fbf8-eb34-4fea-a9e2-54c928042f76" />omk99919@gmail.com
 
 
 
