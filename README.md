@@ -3,7 +3,7 @@
 
 ✈️ Flight Data Analysis with Python, MySQL & Power BI
 
-[![Python 3.9+](https://img.shields.io/badge/Python-3.9+-blue://img.shields.io/badge/Database BI](https://img.shields.io/badge/Visualization-Power: MIT](https://img.shields.io/badge/License-MIT-green.svg Jupyter](https://img.shields.io/badge/Made%20with-Jupyter 📢 Overview
+ 📢 Overview
 
 This Flight Data Analysis project demonstrates an end-to-end data analytics pipeline—from raw flight datasets, through database design and management (MySQL), data cleaning and ETL (Python), to rich interactive dashboards (Power BI).
 
@@ -19,6 +19,7 @@ Interactive Visuals: Build dashboards giving insights for stakeholders.
 Scalability: Easy to extend for new data sources or analytics needs.
 
 📂 Project Structure
+
 <img width="616" height="597" alt="image" src="https://github.com/user-attachments/assets/e3c7a595-f14f-4c29-9017-b08f772453aa" />
 
 🧰 Tech Stack
