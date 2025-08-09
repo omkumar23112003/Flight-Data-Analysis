@@ -42,7 +42,7 @@ Scalability: Easy to extend for new data sources or analytics needs.
 
 🖼️ Screenshots
 🔹 Dashboard Overview
-![Overview](<img width="997" height="650" alt="image" src="https://github.com/user-attachments/assets/959d7561-835a-4e77-a9ea-fc8b11ca6dd4" />
+<img width="997" height="650" alt="image" src="https://github.com/user-attachments/assets/959d7561-835a-4e77-a9ea-fc8b11ca6dd4" />
 
 📈 Insights & Findings
 This project delivers in-depth analysis and actionable insights from flight data, focusing on operational efficiency, passenger trends, and business optimization. Key findings include:
@@ -55,6 +55,8 @@ This project delivers in-depth analysis and actionable insights from flight data
 
 📊 Most Profitable Destinations Based on Passenger Load: Pinpointed routes and airports contributing the highest profitability based on passenger density and load factors, aiding strategic marketing and route expansion decisions.
 
+
+
 🔍 Additional Findings:
 
 Analysis of peak travel times and off-peak dips to optimize staffing and operational hours.
@@ -64,6 +66,8 @@ Insights into passenger demographics and their preferences inferred via passenge
 Correlation between weather conditions and flight delays, providing a foundation for predictive disruption management.
 
 Identification of airline-specific strengths and weaknesses using performance KPIs.
+
+
 
 🚀 Future Improvements & Roadmap
 Building on the current platform, the following enhancements are proposed to expand capabilities, improve automation, and provide real-time insights:
@@ -82,6 +86,8 @@ Building on the current platform, the following enhancements are proposed to exp
 
 📈 Expand Analysis with Economic and External Factors: Integrate fuel prices, economic indicators, and competitor data to provide deeper market intelligence and scenario analyses.
 
+
+
 🙌 Acknowledgements
 This project is made possible through contributions and resources from the following:
 
@@ -95,6 +101,8 @@ Educators and authors whose tutorials and examples helped shape the project’s 
 
 Friends and colleagues who provided invaluable feedback and testing support.
 
+
+
 📜 License
 This Flight Data Analysis project is released under the MIT License, which allows you to:
 
@@ -104,7 +112,7 @@ Include this project in commercial products with proper attribution.
 
 Access the project's full source code for educational and professional purposes.
 
-<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6414fbf8-eb34-4fea-a9e2-54c928042f76" />omk99919@gmail.com
+<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/7052e248-d6f0-4888-a6db-d9de5432c268" />omk99919@gmail.com
 
 
 
